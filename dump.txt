@@ -1,0 +1,21 @@
+FashionHub Website
+
+A modern fashion e-commerce website created using HTML, CSS, and JavaScript.
+
+Features:
+- Responsive design
+- Product showcase
+- Search bar
+- Category section
+- Product details section
+- Add to Cart functionality
+- Wishlist button
+- Modern black and magenta theme
+
+Technologies:
+- HTML5
+- CSS3
+- JavaScript
+
+Version: 1.0
+Author: Prajwal Mane
